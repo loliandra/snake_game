@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🐍 Snake Game
 
 ## 🎮 Features
