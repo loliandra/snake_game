@@ -1,11 +1,7 @@
-Вот README для твоего проекта. Скопируй текст в файл **`README.md`** на GitHub:
+
 
 ````markdown
 # 🐍 Snake Game
-
-A classic Snake game built with Python and Turtle as part of Angela Yu’s **100 Days of Code** course.
-
-Control the snake, collect food, and try to beat your score!
 
 ## 🎮 Features
 
